@@ -15,4 +15,4 @@
 
 ## Tutorial
 
-* Data-Driven Shape Analysis and Processing ([original version](https://people.cs.umass.edu/~kalo/papers/EGstar16/data_driven_shape.pdf)[latest version](https://people.cs.umass.edu/~kalo/datadrivenshape/data_driven_shape.pdf))
+* Data-Driven Shape Analysis and Processing ([original version](https://people.cs.umass.edu/~kalo/papers/EGstar16/data_driven_shape.pdf), [latest version](https://people.cs.umass.edu/~kalo/datadrivenshape/data_driven_shape.pdf))
