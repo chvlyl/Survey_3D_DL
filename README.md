@@ -15,7 +15,7 @@
 
 ## Tutorial
 
-* [Machine Learning for 3D Data (cs468 - Spring 2017)](http://graphics.stanford.edu/courses/cs468-17-spring/)
+* [Machine Learning for 3D Data (Stanford CS468 - Spring 2017)](http://graphics.stanford.edu/courses/cs468-17-spring/)
   
   Course materials can be downloaded in the [Schedule & Assignments](http://graphics.stanford.edu/courses/cs468-17-spring/schedule.html) section.
 
