@@ -12,3 +12,7 @@
 * [Labeled PSB dataset (L-PSB)](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/)
 
 * [Shape COSEG dataset](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm)
+
+## Tutorial
+
+* Data-Driven Shape Analysis and Processing ([original version](https://people.cs.umass.edu/~kalo/papers/EGstar16/data_driven_shape.pdf)[latest version](https://people.cs.umass.edu/~kalo/datadrivenshape/data_driven_shape.pdf))
