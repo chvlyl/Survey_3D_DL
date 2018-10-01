@@ -1,2 +1,2 @@
-# Graph_CNN_Survey
-A survey on Graph CNN
+# A Survey on Graph CNN
+
