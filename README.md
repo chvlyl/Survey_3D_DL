@@ -1,4 +1,4 @@
-# A Survey on Graph CNN
+# A Survey on 3D Deep Learning
 
 * Dataset
 * Paper
