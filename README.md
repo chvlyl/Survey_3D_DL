@@ -23,6 +23,10 @@ The 3D data can be represented in the following forms:
 
 * [Shape COSEG dataset](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm)
 
+## Packages
+
+* Geometric Deep Learning Extension Library for PyTorch ([Github](https://github.com/rusty1s/pytorch_geometric))
+
 ## Tutorial
 
 * A Tutorial on 3D Deep Learning (CVPR 2017) ([web](http://3ddl.stanford.edu/), [video](https://www.youtube.com/watch?v=8CenT_4HWyY))
