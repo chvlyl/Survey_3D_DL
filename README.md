@@ -5,6 +5,16 @@
 * Tutorial
 * Packages
 
+## Background
+
+#### Data Representation
+The 3D data can be represented in the following forms:
+* multi-view RGB(D) images
+* volumetric
+* polygonal mesh
+* point cloud
+* primitive-based CAD models
+
 ## Dataset
 
 * [Princeton Segmentation Benchmark dataset (PSB)](http://segeval.cs.princeton.edu/)
