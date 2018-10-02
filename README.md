@@ -44,3 +44,11 @@ The 3D data can be represented in the following forms:
 * Polygon Mesh Processing ([web](http://www.pmp-book.org/))
 
   A free online book about mesh representation
+  
+  ## Papers
+  
+  ### Feature based methods
+  
+  * 3D Shape Segmentation via Shape Fully Convolutional Networks ([paper](https://arxiv.org/abs/1702.08675))
+  
+  * 3D Mesh Segmentation via Multi-branch 1D Convolutional Neural Networks ([paper](https://arxiv.org/abs/1705.11050))
