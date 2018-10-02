@@ -29,7 +29,7 @@ The 3D data can be represented in the following forms:
 
 * Pytorch implementation of Graph Convolution Networks & Graph Attention Convolutional Networks ([Github](https://github.com/meliketoy/graph-cnn.pytorch))
 
-* PyTorch implementation of Graph Convolutional Networks for semi-supervised classification ([Github](https://github.com/tkipf/pygcn))
+* PyTorch implementation of Graph Convolutional Networks for semi-supervised classification ([Github](https://github.com/tkipf/pygcn), [paper](https://arxiv.org/abs/1609.02907))
 
 ## Tutorial
 
