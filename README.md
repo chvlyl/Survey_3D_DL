@@ -49,6 +49,8 @@ The 3D data can be represented in the following forms:
   
   ### Feature based methods
   
+  * 3D Mesh Labeling via Deep Convolutional Neural Networks. 2015. ([paper](https://dl.acm.org/citation.cfm?id=2835487))
+  
   * 3D Shape Segmentation via Shape Fully Convolutional Networks ([paper](https://arxiv.org/abs/1702.08675))
   
   * 3D Mesh Segmentation via Multi-branch 1D Convolutional Neural Networks ([paper](https://arxiv.org/abs/1705.11050))
