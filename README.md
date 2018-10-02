@@ -54,5 +54,11 @@ The 3D data can be represented in the following forms:
 * 3D Shape Segmentation via Shape Fully Convolutional Networks ([paper](https://arxiv.org/abs/1702.08675))
   
 * 3D Mesh Segmentation via Multi-branch 1D Convolutional Neural Networks ([paper](https://arxiv.org/abs/1705.11050))
+
+### Octree
   
 * [2017] O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis ([paper](https://wang-ps.github.io/O-CNN.html), [code](https://github.com/Microsoft/O-CNN))
+
+### Projection
+
+* [2017] 3D Shape Segmentation with Projective Convolutional Networks ([paper](https://arxiv.org/abs/1612.02808), [web](https://people.cs.umass.edu/~kalo/papers/shapepfcn/), [code](https://github.com/kalov/ShapePFCN))
