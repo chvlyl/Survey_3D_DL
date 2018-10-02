@@ -31,7 +31,7 @@ The 3D data can be represented in the following forms:
 
 * PyTorch implementation of Graph Convolutional Networks for semi-supervised classification ([Github](https://github.com/tkipf/pygcn), [paper](https://arxiv.org/abs/1609.02907), [blog](http://tkipf.github.io/graph-convolutional-networks/))
 
-* Point cloud semantic segmentation via Deep 3D Convolutional Neural Network ([Github](https://github.com/nsavinov/semantic3dnet))
+* Point cloud semantic segmentation via Deep 3D Convolutional Neural Network ([Github](https://github.com/nsavinov/semantic3dnet), [slides](https://drive.google.com/file/d/0B2SXn94m2RhEbnFMbHVZNVJ3bzA/view))
 
 ## Tutorial
 
