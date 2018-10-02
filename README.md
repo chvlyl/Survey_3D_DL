@@ -32,3 +32,7 @@ The 3D data can be represented in the following forms:
   Course materials can be downloaded in the Schedule & Assignments section ([web](http://graphics.stanford.edu/courses/cs468-17-spring/schedule.html))
 
 * Data-Driven Shape Analysis and Processing ([original version](https://people.cs.umass.edu/~kalo/papers/EGstar16/data_driven_shape.pdf), [latest version](https://people.cs.umass.edu/~kalo/datadrivenshape/data_driven_shape.pdf))
+
+* Polygon Mesh Processing [web](http://www.pmp-book.org/)
+
+  A free online book about mesh representation
