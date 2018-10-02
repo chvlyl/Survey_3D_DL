@@ -45,14 +45,14 @@ The 3D data can be represented in the following forms:
 
   A free online book about mesh representation
   
-  ## Papers
+## Papers
   
-  ### Feature based methods
+### Feature based methods
   
-  * [2015] 3D Mesh Labeling via Deep Convolutional Neural Networks ([paper](https://dl.acm.org/citation.cfm?id=2835487))
+* [2015] 3D Mesh Labeling via Deep Convolutional Neural Networks ([paper](https://dl.acm.org/citation.cfm?id=2835487))
   
-  * 3D Shape Segmentation via Shape Fully Convolutional Networks ([paper](https://arxiv.org/abs/1702.08675))
+* 3D Shape Segmentation via Shape Fully Convolutional Networks ([paper](https://arxiv.org/abs/1702.08675))
   
-  * 3D Mesh Segmentation via Multi-branch 1D Convolutional Neural Networks ([paper](https://arxiv.org/abs/1705.11050))
+* 3D Mesh Segmentation via Multi-branch 1D Convolutional Neural Networks ([paper](https://arxiv.org/abs/1705.11050))
   
-  * [2017] O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis ([paper](https://wang-ps.github.io/O-CNN.html), [code](https://github.com/Microsoft/O-CNN))
+* [2017] O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis ([paper](https://wang-ps.github.io/O-CNN.html), [code](https://github.com/Microsoft/O-CNN))
