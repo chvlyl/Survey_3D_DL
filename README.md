@@ -46,7 +46,9 @@ The 3D data can be represented in the following forms:
 * Polygon Mesh Processing ([web](http://www.pmp-book.org/))
 
   A free online book about mesh representation
-  
+
+* Udacity Interactive 3D Graphics [web](https://classroom.udacity.com/courses/cs291)
+
 ## Papers
   
 ### Feature based methods
